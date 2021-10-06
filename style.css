@@ -15,9 +15,14 @@ h1 {
     transition-duration: 2s;
     font-weight: bold;
 
-    background-color: coral;
+    background-color: CornflowerBlue;
     padding: 7px;
     border-radius: 3px;
+}
+
+.projects .new a {
+    background-color: coral;
+
 }
 
 .projects a:hover {
