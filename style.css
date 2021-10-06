@@ -8,7 +8,7 @@ h1 {
     text-transform: uppercase;
 }
 
-.projects a {
+.projects .old a {
     color: black;
     cursor: pointer;
     text-decoration: none;
@@ -21,7 +21,15 @@ h1 {
 }
 
 .projects .new a {
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+    transition-duration: 2s;
+    font-weight: bold;
+
     background-color: coral;
+    padding: 7px;
+    border-radius: 3px;
 
 }
 
